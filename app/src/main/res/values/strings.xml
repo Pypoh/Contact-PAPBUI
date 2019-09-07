@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Contact</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">Recent</string>
+    <string name="tab_text_2">Contacts</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_profile">My Profile</string>
+
+    <string-array name="Jabatan">
+        <item>Mahasiswa</item>
+        <item>Dosen</item>
+        <item>Staff</item>
+
+    </string-array>
+</resources>
